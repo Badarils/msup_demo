@@ -8,4 +8,4 @@ for d in */; do
   git -C $localPATH/$d status            # run git status
   echo -e '\n'
 done.
-
+sdafadsfadsfads
