@@ -4,6 +4,8 @@ git fetch
 git status
 git merge Devnew
 git status
+paven changes
+adfdsa
 
 
 
